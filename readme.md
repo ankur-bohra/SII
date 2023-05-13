@@ -1,0 +1,1 @@
+Scrape the college lists institute and further scrape each college's institute to generate complete data about the specifics of each and every available institute.
